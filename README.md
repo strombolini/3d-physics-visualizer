@@ -1,1 +1,1 @@
-See <Wiki> Page
+See Wiki Page for instructions and examples
